@@ -1,3 +1,0 @@
-My name is yash
-I am learning Python
-Python is easy and fun
